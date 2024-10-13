@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-import UserModel from "../model/UserModel.js";
+import UserModel from "../model/StudentModel.js";
 import { EncodeToken } from "../utility/TokenUtility.js";
 
 const ObjectID = mongoose.Types.ObjectId;

@@ -1,4 +1,4 @@
-import { registerService, loginService, readProfileService, updateProfileService } from '../service/UserService.js';
+import { registerService, loginService, readProfileService, updateProfileService } from '../service/StudentService.js';
 
 
 // User Registration
